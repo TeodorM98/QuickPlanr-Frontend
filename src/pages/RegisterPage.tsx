@@ -8,6 +8,7 @@ export default function RegisterPage(){
             <div className="flex flex-row justify-evenly min-w-full">
             <img src={img} className="min-h-max min-w-max" />
             <RegisterForm />
+            neshtoebhethetheh
             </div>
         </HeaderFooterContainer>
     )
